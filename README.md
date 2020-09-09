@@ -1,0 +1,2 @@
+# sheroku
+# djangohost
